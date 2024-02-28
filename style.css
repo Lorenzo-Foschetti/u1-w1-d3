@@ -4,6 +4,9 @@
 
 .header-h3 {
     background-color: cornsilk;
+    border-top: 1px solid yellow;
+  
+    
 }
 
 .div-title {
@@ -24,12 +27,14 @@
 
 .h1 {
     text-align: center;
+   
 }
 
 .ul-class {
     width: 50%;
     margin-left: auto;
     margin-right: auto;
+   
 }
 
 .method {
@@ -55,6 +60,12 @@ a {
 .text {
     font-family: cursive;
 }
+
+
+
+
+
+
 
 
 
