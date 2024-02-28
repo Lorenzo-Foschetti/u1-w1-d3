@@ -1,0 +1,60 @@
+.div-header {
+    text-align: center;
+}
+
+.header-h3 {
+    background-color: cornsilk;
+}
+
+.div-title {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.food-photo {
+    border-radius: 10px;
+}
+
+
+.food.photo {
+    border-radius: 8%;
+}
+
+.h1 {
+    text-align: center;
+}
+
+.ul-class {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.method {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.hr {
+    color: aqua;
+}
+
+a {
+    color: darkgoldenrod;
+}
+
+.text {
+    font-family: cursive;
+}
+
+
+
